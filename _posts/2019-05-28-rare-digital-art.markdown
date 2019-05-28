@@ -6,6 +6,10 @@ image:  rare-pepe.png
 tags:   resources
 ---
 
+\**img credit: [pepedapp.com](https://www.pepedapp.com/)*
+
+* [Simon Denny - The Artist Explaining Blockchain with Pokemon](https://www.theguardian.com/artanddesign/2016/aug/26/simon-denny-artist-blockchain-pokemon)
+
 <iframe src="https://youtu.be/5eLAI-Atl88" frameborder="0" allowfullscreen></iframe>
 
 ## Rare Pepe
@@ -13,15 +17,15 @@ tags:   resources
 !https://steemitimages.com/640x0/https://i.imgur.com/addGH5k.jpg
 
 ## Where artists can submit art to earn crypto from:
-https://www.artnome.com/news/2018/2/2/blockchain-artists-wanted
-https://cryptoart.com
-http://rarepepedirectory.com/?page_id=25
-https://community.curio.cards \ https://mycuriocards.com
-http://archetype.mx
-https://www.rareart.io/
-https://dada.nyc/
-https://bitmark.com
-https://pixura.io/
+* [Blockchain Artists Wanted](https://www.artnome.com/news/2018/2/2/blockchain-artists-wanted)
+* [CryptoArt](https://cryptoart.com)
+* [rarepepedirectory.com - Submit Your Rare Pepe](http://rarepepedirectory.com/?page_id=25)
+* [mycuriocards.com](https://mycuriocards.com) \ [community.curio.cards](https://community.curio.cards)
+* [archetype.mx](http://archetype.mx)
+* [www.rareart.io](https://www.rareart.io/)
+* [dada.nyc](https://dada.nyc/)
+* [bitmark.com](https://bitmark.com)
+* [pixura.io](https://pixura.io/)
 
 ## How:
 https://medium.com/@PowerDada/dada-faqs-e5372184f8ed
