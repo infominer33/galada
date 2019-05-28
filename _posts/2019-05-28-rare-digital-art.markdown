@@ -2,11 +2,15 @@
 layout: post
 title:  Rare Digital Art
 date:   2019-05-28 13:33:33 +2300
-image:  05.jpg
+image:  rare-pepe.png
 tags:   resources
 ---
 
 <iframe src="https://youtu.be/5eLAI-Atl88" frameborder="0" allowfullscreen></iframe>
+
+## Rare Pepe
+
+!https://steemitimages.com/640x0/https://i.imgur.com/addGH5k.jpg
 
 ## Where artists can submit art to earn crypto from:
 https://www.artnome.com/news/2018/2/2/blockchain-artists-wanted
