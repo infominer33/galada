@@ -6,6 +6,7 @@ image:  pepebanner.jpg
 tags:   resources pepe
 ---
 
+* [Rare Pepe Blockchain Cards Have Produced More Value Than Most ICOs](https://news.bitcoin.com/rare-pepe-blockchain-cards-produce-more-value-than-most-icos/)
 
 * [Simon Denny - The Artist Explaining Blockchain with Pokemon](https://www.theguardian.com/artanddesign/2016/aug/26/simon-denny-artist-blockchain-pokemon)
 
