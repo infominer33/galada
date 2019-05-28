@@ -14,7 +14,7 @@ tags:   resources
 
 ## Rare Pepe
 
-!https://steemitimages.com/640x0/https://i.imgur.com/addGH5k.jpg
+![](https://i.imgur.com/addGH5k.jpg)
 
 ## Where artists can submit art to earn crypto from:
 * [Blockchain Artists Wanted](https://www.artnome.com/news/2018/2/2/blockchain-artists-wanted)
