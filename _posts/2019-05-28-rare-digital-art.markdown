@@ -14,7 +14,7 @@ tags:   resources pepe
 ## Rare Pepe
 
 * [Reddit Rare Pepe Memes](https://www.ohmycat.club/reddit-rare-pepe-memes.html)
-  ![](rare-pepe.png)
+  ![](https://infominer.id/rare-digital-art/img/rare-pepe.png)
   
 
 * [Rare Pepe Mosaic](https://mustacheese.deviantart.com/art/Rare-Pepe-Mosaic-NOT-FOR-NORMIES-567803519)
