@@ -6,6 +6,9 @@ image:  pepebanner.jpg
 tags:   resources pepe
 ---
 
+>The Rare Pepe movement started as a joke since it's difficult for a popularized digital image to be rare. However, that joke became a reality with Bitcoin and Counterparty. The creators were aware of the scandal going on, but they didn't have anything to do with racism or any of those crazy politics. Despite the drama and hatred, Pepe became immortalized by Blockchain Technology. The fun with memes would not be ended. In fact, those meme began to grow in value. -[The Birth of Crypto Art Meet Rare Pepe](https://steemit.com/slothicorn/@inquiringtimes/the-birth-of-crypto-art-meet-rare-pepe)
+
+
 * [Rare Pepe Blockchain Cards Have Produced More Value Than Most ICOs](https://news.bitcoin.com/rare-pepe-blockchain-cards-produce-more-value-than-most-icos/)
 
 * [Simon Denny - The Artist Explaining Blockchain with Pokemon](https://www.theguardian.com/artanddesign/2016/aug/26/simon-denny-artist-blockchain-pokemon)
@@ -13,6 +16,8 @@ tags:   resources pepe
 <iframe src="https://www.youtube.com/embed/5eLAI-Atl88" frameborder="0" allowfullscreen></iframe>
 
 ## Rare Pepe
+
+
 
 * [Reddit Rare Pepe Memes](https://www.ohmycat.club/reddit-rare-pepe-memes.html)
   ![](https://infominer.id/rare-digital-art/img/rare-pepe.png)
