@@ -6,7 +6,7 @@ image:  rare-pepe.png
 tags:   resources
 ---
 
-\**img credit: [pepedapp.com](https://www.pepedapp.com/)*
+\**img credit: [Reddit Rare Pepe Memes](https://www.ohmycat.club/reddit-rare-pepe-memes.html)*
 
 * [Simon Denny - The Artist Explaining Blockchain with Pokemon](https://www.theguardian.com/artanddesign/2016/aug/26/simon-denny-artist-blockchain-pokemon)
 
