@@ -48,6 +48,8 @@ permalink: ':title/'
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
 
 paginate: 7
 paginate_path: "/page/:num"

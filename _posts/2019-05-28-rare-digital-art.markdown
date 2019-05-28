@@ -6,6 +6,7 @@ image:  05.jpg
 tags:   resources
 ---
 
+<iframe src="https://youtu.be/5eLAI-Atl88" frameborder="0" allowfullscreen></iframe>
 
 ## Where artists can submit art to earn crypto from:
 https://www.artnome.com/news/2018/2/2/blockchain-artists-wanted
