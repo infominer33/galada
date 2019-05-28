@@ -14,7 +14,8 @@ tags:   resources
 
 ## Rare Pepe
 
-![](https://i.imgur.com/addGH5k.jpg)
+* [Rare Pepe Mosaic](https://mustacheese.deviantart.com/art/Rare-Pepe-Mosaic-NOT-FOR-NORMIES-567803519)
+  ![](https://i.imgur.com/addGH5k.jpg)
 
 ## Where artists can submit art to earn crypto from:
 * [Blockchain Artists Wanted](https://www.artnome.com/news/2018/2/2/blockchain-artists-wanted)
