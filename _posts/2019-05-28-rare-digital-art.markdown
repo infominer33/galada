@@ -2,17 +2,20 @@
 layout: post
 title:  Rare Digital Art
 date:   2019-05-28 13:33:33 +2300
-image:  rare-pepe.png
-tags:   resources
+image:  pepebanner.jpg
+tags:   resources pepe
 ---
 
-\**img credit: [Reddit Rare Pepe Memes](https://www.ohmycat.club/reddit-rare-pepe-memes.html)*
 
 * [Simon Denny - The Artist Explaining Blockchain with Pokemon](https://www.theguardian.com/artanddesign/2016/aug/26/simon-denny-artist-blockchain-pokemon)
 
 <iframe src="https://youtu.be/5eLAI-Atl88" frameborder="0" allowfullscreen></iframe>
 
 ## Rare Pepe
+
+* [Reddit Rare Pepe Memes](https://www.ohmycat.club/reddit-rare-pepe-memes.html)
+  ![](rare-pepe.png)
+  
 
 * [Rare Pepe Mosaic](https://mustacheese.deviantart.com/art/Rare-Pepe-Mosaic-NOT-FOR-NORMIES-567803519)
   ![](https://i.imgur.com/addGH5k.jpg)
