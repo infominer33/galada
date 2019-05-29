@@ -2,10 +2,11 @@
 layout: post
 title:  The Birth of Crypto Art
 date:   2018-08-23 11:13:33 +2300
-image:  pepebanner.jpg
+image:  Salvador-Pepe-rare-Pepe-auction-1-13-18.jpeg
 tags:   pepe rare history resources
 ---
 
+![](https://infominer.id/rare-digital-art/img/pepebanner.jpg)
 
 ## In The Beginning
 
@@ -29,6 +30,7 @@ tags:   pepe rare history resources
 
 ![](https://i.kym-cdn.com/photos/images/newsfeed/000/001/148/466px-Feels_good_man_full_comic.jpg)
 
+* [4chan’s Pepe the Frog is bigger than ever—and his creator feels good, man](https://www.dailydot.com/unclick/4chan-pepe-the-frog-renaissance/) -2017
 
 ## The Birth of Rare Pepe
 
@@ -40,12 +42,8 @@ tags:   pepe rare history resources
 ## Biggest Meme of 2015
 
 * [Tumblr’s Biggest Meme of 2015 Was Pepe the Frog](http://nymag.com/intelligencer/2015/12/tumblr-was-here-for-pepe-the-frog-in-2015.html)
-
-
 * [Rare Pepe Mosaic](https://mustacheese.deviantart.com/art/Rare-Pepe-Mosaic-NOT-FOR-NORMIES-567803519)
   ![](https://i.imgur.com/addGH5k.jpg)
-
-
 * [Reddit Rare Pepe Memes](https://www.ohmycat.club/reddit-rare-pepe-memes.html)
   [![](https://infominer.id/rare-digital-art/img/rare-pepe.png)](https://imgur.com/r/4chan/awRrhwX)
   
@@ -67,16 +65,49 @@ tags:   pepe rare history resources
 
 ## Enter Bitcoin
 
+* [[ANN] The first truly rare Pepes on the Bitcoin Blockchain! [ANN]](https://bitcointalk.org/index.php?topic=1617264.0)
+
 ![](https://imgur.com/a880QQ3.png)
 
 >For years people have been trying to preserve the rarest of pepes from being stolen.  
 >
 >Thanks to Bitcoin and Counterparty we can associate these Rare Pepes with tokens to make them truly rare.  Now Pepe’s can preserve their rareness and actually be traded on the market.
-  ![](https://infominer.id/rare-crypto-art/img/pepe-scientist.jpg)
-
+  [![](https://infominer.id/rare-crypto-art/img/pepe-scientist.jpg)](http://rarepepedirectory.com/?page_id=122)
 * [counterparty.io](https://counterparty.io/)
   >Counterparty extends Bitcoin’s functionality by “writing in the margins” of regular Bitcoin transactions, opening the door for innovation and advanced features not possible with ordinary Bitcoin software.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KHQLBsrk5ME" frameborder="0" allowfullscreen></iframe>
+
+## First Live Auction
+
+[![](https://video-images.vice.com/_uncategorized/1516305655454-Salvador-Pepe-rare-Pepe-auction-RT-1-13-18.jpeg)](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
+
+ 
+![](http://infominer.id/rare-digital-art/img/homer-pepe.jpg)
+
+## Recent News
+
 * [Rare Pepe Blockchain Cards Have Produced More Value Than Most ICOs](https://news.bitcoin.com/rare-pepe-blockchain-cards-produce-more-value-than-most-icos/)
-
-
 * [I Went to the First Live Auction for Rare Pepes on the Blockchain](https://www.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
+
+## Should Pepe Live on Bitcoin?
+
+* [Counterparty Wants to Stay on Bitcoin but Fees Remain a Contentious Issue](https://bitsonline.com/counterparty-bitcoin-fees-contentious/) - December 27, 2017
+>“Earlier in 2017, when the Counterparty community was still largely intact, I created two proposals that would have led to Counterparty moving off of Bitcoin Core. I thought Counterparty should either embrace Bitcoin Cash (at the time it was Bitcoin Classic) for the block space Counterparty needs or move to Litecoin where a metaprotocol like Counterparty would be welcome.”
+
+
+
+## Resources
+
+![](/img/pepe-recall.gif)
+
+* [Artnome- The Birth of Cryptoart](https://www.artnome.com/news/2018/1/23/rare-pepe-wallet-the-birth-of-cryptoart)
+* [fivethirtyeight.com - People Paying Thousands To Own Pictures Of Pepe The Frog](https://fivethirtyeight.com/features/pepe-the-frog-symbolism-cryptoart-blockchain/)
+* [I went to the first Live Auction for Rare Pepes on the Blockchain](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
+* [Know Your Meme- Pepe](http://knowyourmeme.com/memes/pepe-the-frog)
+* [Know Your Meme- Rare Pepe](http://knowyourmeme.com/memes/rare-pepe)
+* [Matt Furie](http://www.mattfurie.com/)- Originator of Pepe
+* [rarepepewallet.com](https://rarepepewallet.com)
+* [rarepepedirectory.com](http://rarepepedirectory.com)
+* [counterparty.io](https://counterparty.io)
+* [How Pepe the Frog became a Nazi Trump Supporter](https://www.thedailybeast.com/how-pepe-the-frog-became-a-nazi-trump-supporter-and-alt-right-symbol)
