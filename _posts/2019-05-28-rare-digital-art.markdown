@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  Rare Digital Art
+title:  Digal Rare Resources
 date:   2019-05-28 13:33:33 +2300
-image:  
-tags:   resources pepe
+published: 
+image: dada-collaborative
+tags:   resources dada rare digital art
 ---
 
-
+* [Collect One Artist, Support Them All](https://medium.com/@PowerDada/collect-rare-collaborative-digital-art-6777fd22c82d)
+  > Descontrol is comprised of 40 different drawings, made spontaneously by 11 different artists in 9 countries. Each drawing can be purchased as a unique ERC721 non-fungible token.
 * [Simon Denny - The Artist Explaining Blockchain with Pokemon](https://www.theguardian.com/artanddesign/2016/aug/26/simon-denny-artist-blockchain-pokemon)
 
 <iframe src="https://www.youtube.com/embed/5eLAI-Atl88" frameborder="0" allowfullscreen></iframe>
