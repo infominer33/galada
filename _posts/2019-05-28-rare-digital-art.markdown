@@ -26,25 +26,25 @@ tags:   resources dada rare digital art
 * [pixura.io](https://pixura.io/)
 
 ## How:
-https://medium.com/@PowerDada/dada-faqs-e5372184f8ed
+* [DADA FAQs](https://medium.com/@PowerDada/dada-faqs-e5372184f8ed)
 
 ## crypto-art links
-http://dankrares.com/
-https://www.artnome.com/
-https://github.com/obxium/awesome-crypto-art
+* [dankrares.com](http://dankrares.com/)
+* [artnome.com](https://www.artnome.com/)
+* [obxium/awesome-crypto-art](https://github.com/obxium/awesome-crypto-art)
+* [https://liverpooluniversitypress.co.uk](https://liverpooluniversitypress.co.uk)
 
-https://liverpooluniversitypress.co.uk
 
 
 ## Potential places to earn crypto by advertising your artistic services:
-https://cryptojobslist.com/
-https://ethlance.com/
-https://www.xbtfreelancer.com/
-https://coinality.com/
-https://www.cryptogrind.com/
-http://www.bitgigs.com/
-https://cryptojobslist.com/
+* [cryptojobslist](https://cryptojobslist.com/)
+* [ethlance.com](https://ethlance.com/)
+* [xbtfreelancer.com](https://www.xbtfreelancer.com/)
+* [coinality.com](https://coinality.com/)
+* [cryptogrind.com](https://www.cryptogrind.com/)
+* [bitgigs.com](http://www.bitgigs.com/)
+* [cryptojobslist.com](https://cryptojobslist.com/)
 
 ## History
-https://cryptograffiti.com/pages/about-us
+* [cryptograffiti.com](https://cryptograffiti.com/pages/about-us)
 
