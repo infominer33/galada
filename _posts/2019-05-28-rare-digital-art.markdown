@@ -11,6 +11,7 @@ tags:   resources pepe
 
 <iframe src="https://www.youtube.com/embed/5eLAI-Atl88" frameborder="0" allowfullscreen></iframe>
 
+
 ## Where artists can submit art to earn crypto from:
 * [Blockchain Artists Wanted](https://www.artnome.com/news/2018/2/2/blockchain-artists-wanted)
 * [CryptoArt](https://cryptoart.com)
