@@ -6,21 +6,21 @@ image:  Salvador-Pepe-rare-Pepe-auction-1-13-18.jpeg
 tags:   pepe rare history resources
 ---
 
-![](https://infominer.id/rare-digital-art/img/pepebanner.jpg)
+![](https://sourcecrypto.pub/rare-digital-art/img/pepebanner.jpg)
 
 ## In The Beginning
 
 >In 2005, artist [Matt Furie](http://www.mattfurie.com/) created the comic series Boy's Club, which stars the teenage monster characters Pepe, Brett, Andy and Landwolf.
 [pepe-the-frog](https://knowyourmeme.com/memes/pepe-the-frog)
 
-![](https://infominer.id/rare-digital-art/img/boys-club-pepe-history.png)
+![](https://sourcecrypto.pub/rare-digital-art/img/boys-club-pepe-history.png)
 
 * [The Creator of Pepe the Frog Talks About Making Comics in the Post-Meme World](https://www.vice.com/en_us/article/avy3aj/feels-good-man-728)
   >"I've made my mark on the internet, so I can relax. I'm retired now, living off all the shares and likes.​"
 
 ## Feels Good Man
 
-![](https://infominer.id/rare-digital-art/img/feels-good-man.jpeg)
+![](https://sourcecrypto.pub/rare-digital-art/img/feels-good-man.jpeg)
 
 * [knowyourmeme.com/memes/feels-good-man](https://knowyourmeme.com/memes/feels-good-man)
   > Feels Good Man is a catchphrase and exploitable from a comic strip authored by artist Matt Furie. The phrase is in reference to the emotions one of the characters in the strip feels when he goes to the bathroom standing up, with his pants all the way down.
@@ -45,7 +45,7 @@ tags:   pepe rare history resources
 * [Rare Pepe Mosaic](https://mustacheese.deviantart.com/art/Rare-Pepe-Mosaic-NOT-FOR-NORMIES-567803519)
   ![](https://i.imgur.com/addGH5k.jpg)
 * [Reddit Rare Pepe Memes](https://www.ohmycat.club/reddit-rare-pepe-memes.html)
-  [![](https://infominer.id/rare-digital-art/img/rare-pepe.png)](https://imgur.com/r/4chan/awRrhwX)
+  [![](https://sourcecrypto.pub/rare-digital-art/img/rare-pepe.png)](https://imgur.com/r/4chan/awRrhwX)
   
 ## Alt-Right Drives Away Normies
 
@@ -83,7 +83,7 @@ tags:   pepe rare history resources
 [![](https://video-images.vice.com/_uncategorized/1516305655454-Salvador-Pepe-rare-Pepe-auction-RT-1-13-18.jpeg)](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
 
  
-![](http://infominer.id/rare-digital-art/img/homer-pepe.jpg)
+![](http://sourcecrypto.pub/rare-digital-art/img/homer-pepe.jpg)
 
 ## Recent News
 
